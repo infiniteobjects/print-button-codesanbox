@@ -1,20 +1,13 @@
 {
-  "name": "print-button-codesanbox",
+  "name": "print-button-codesandbox",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/infiniteobjects/print-button-codesanbox.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/infiniteobjects/print-button-codesanbox/issues"
-  },
-  "homepage": "https://github.com/infiniteobjects/print-button-codesanbox#readme"
+  "author": "InfiniteObjects",
+  "license": "UNLICENSED",
+  "private": true,
+  "homepage": "https://www.infiniteobjects.com",
+  "devDependencies": {
+    "@types/node": "^18.6.5",
+    "typescript": "^4.7.4"
+  }
 }
